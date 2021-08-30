@@ -41,6 +41,13 @@ h3 {
   background-color: #b8dfd8;
 }
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -55,4 +62,26 @@ h3 {
   position: absolute;
   left: 400px;
   top: 200px;
+}
+
+.imagesskill {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 10px;
+}
+
+.imagesskill-row {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.skills-descript {
+  clear: left;
+}
+
+.skills-row-descript {
+  clear: right;
 }
